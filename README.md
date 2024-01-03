@@ -6,3 +6,4 @@
 6. If the project uses a database, you need to configure the database credentials in the `.env` file and run the command `php artisan migrate` to create the database tables. Optionally, you can also run `php artisan db:seed` to populate the database with some sample data.
 7. Run the command `php artisan serve` to start the local development server.
 8. Go to the link `http://localhost:8000` in your browser to see the project running.
+9. Don't forget to run the command `npm run dev` in your directory to make sure the Tailwind CSS working
